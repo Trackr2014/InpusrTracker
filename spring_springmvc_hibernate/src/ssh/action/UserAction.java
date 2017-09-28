@@ -12,7 +12,7 @@ import ssh.service.UserService;
 
 /**
  * @ClassName: UserAction积极拒绝000000
- * @Description: 用户动作的111类懂了吧哈哈哈哈
+ * @Description: 用户动作的111类懂了吧哈哈哈点点滴滴达到哈
  * @author wang.pengfei
  * @date 2017年9月28日上午11:10:36
  *
