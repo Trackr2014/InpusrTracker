@@ -12,7 +12,7 @@ import ssh.service.UserService;
 
 /**
  * @ClassName: UserAction
- * @Description: TODO(这里用一句话描述这个类的作用)
+ * @Description: 用户动作的类懂了吧哈哈哈哈
  * @author wang.pengfei
  * @date 2017年9月28日上午11:10:36
  *
