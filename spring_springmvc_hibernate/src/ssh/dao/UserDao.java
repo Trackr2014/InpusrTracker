@@ -8,7 +8,7 @@ public interface UserDao {
 	List<User> getAllUsers() throws Exception;
 	//添加用户
 	void addUser(User user) throws Exception;
-	//删除用户
+	//删除用户---
 	void delUser(Integer id) throws Exception;
 	//修改用户
 	void updateUser(User user) throws Exception;
