@@ -2,7 +2,7 @@ package ssh.service;
 import java.util.List;
 import ssh.entity.User;
 public interface UserService {
-	//登录
+	//登录dddddd
 	User selectUser(User user ) throws Exception;
 	//查询所有
 	List<User> getAllUsers() throws Exception;
