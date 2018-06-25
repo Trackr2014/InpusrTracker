@@ -1,1 +1,0 @@
-1.我测试安装maven，在run as——maven install后，应该保存在C:\Users\wang.pengfei\.m2里了。如果遇到某些错误，可以参考。dddd
